@@ -13,10 +13,10 @@ REGOLE
 /*I datatype sono il tipo di dato assegnato ad una variabile. I datatype più comuni cosidetti "primitivi" sono 5 e sono:
 1)La stringa o string (vedi sotto)
 let myName = "Marina";
-la stringa viene assegnata a una variabile dichiarata dopo il segno uguale e con le ".." o con gli apici '..'
+la stringa è una sequenza di caratteri (lettere, numeri, caratteri speciali (tramite escape) ecc...) dichiarata dopo il segno uguale e con le virgolette ".." o con gli apici '..'
 2)numeri o number
 let number = 10;
- Il numero è un'atro datatype primitivo ed assegna ad una variabile un valore numerico. Essi possono essere anche valori decimali, ma attenzione che spesso con i valori di tipo decimale javascript potrebbe dare risposte matematicamente scorrette, ma simpatiche.
+ Il numero è un'altro datatype primitivo ed assegna ad una variabile un valore numerico. Essi possono essere anche valori decimali, ma attenzione che spesso con i valori di tipo decimale javascript potrebbe dare risposte matematicamente scorrette, ma simpatiche.
 3)booleani
 let veroFalso = true
 il datatype booleano accetta per definizione solo due tipi di valori che sono: true o false. 
