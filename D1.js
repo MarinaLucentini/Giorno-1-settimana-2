@@ -62,6 +62,8 @@ console.log(x);
 */
 myName = "Lucentini";
 console.log(myName);
+const dog = "Bobby";
+//dog = 'pluto' una costante non può essere riassegnata (ho letto adesso la seconda riga)
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 6
