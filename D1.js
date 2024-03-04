@@ -10,7 +10,7 @@ REGOLE
 /* ESERCIZIO 1
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
-/*I datatype sono il tipo di dato assegnato ad una variabile. Possono essere diversi i datatype primitivi sono:
+/*I datatype sono il tipo di dato assegnato ad una variabile. I datatype più comuni cosidetti "primitivi" sono 5 e sono:
 1)La stringa o string (vedi sotto)
 let myName = "Marina";
 la stringa viene assegnata a una variabile dichiarata dopo il segno uguale e con le ".." o con gli apici '..'
@@ -25,8 +25,8 @@ let undefined
 Undefined è il datatype assegnato a una variabile di default. Significa che quella variabile ha valore indefinito, ossia il suo valore non è stato ancora determinato dal developer e/o dall'utente.
 5) null
 Null è un tipo di datatype in cui esplicitamente si assegna ad una variabile nessun valore. Nella logica booleana si traduce con false
-6) symbol 
-il datatype symbol serve ad assegnare valori univoci a determinati oggetti.
+
+
 
 
 /* SCRIVI QUI LA TUA RISPOSTA */
